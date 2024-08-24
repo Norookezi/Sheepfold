@@ -1,0 +1,10 @@
+{
+  "name": "sheepfold",
+  "version": "0.0.1",
+  "description": "Online game",
+  "main": "",
+  "type": "module",
+  "scripts": { },
+  "author": "Norookezi",
+  "license": "ISC"
+}
